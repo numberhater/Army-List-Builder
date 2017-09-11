@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">List Builder</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_army_button">Add Army</string>
+    <string name='necron_button'>Necrons</string>
+    <string name='grey_knight_button'>Grey Knights</string>
+    <string name='imperial_guard_button'>Imperial Guard</string>
+    <string name='chaos_marine_button'>Chaos Space Marines</string>
+    <string name='Marines_button'>Space Marines</string>
+    <string name='eldar_button'>Eldar</string>
+    <string name='dark_eldar_button'>Dark Eldar</string>
+    <string name='harlequin_button'>Harlequins</string>
+    <string name='Ynari_button'>Ynari</string>
+    <string name='ork_button'>Orks</string>
+    <string name='blood_angels_button'>Blood Angels</string>
+    <string name='dark_angels_button'>Dark Angels</string>
+    <string name='death_watch_button'>Death Watch</string>
+    <string name='adeptus_mechanicus_button'>Adeptus Mechanicus</string>
+    <string name='adeptus_ministorium_button'>Adeptus Ministorum and Sisters of Battle</string>
+    <string name='astra_telepathica_button'>Astra Telepathica</string>
+    <string name='assassins_button'>Assassins</string>
+    <string name='inquisition_button'>Inquisition</string>
+    <string name='custodes_button'>Custodes</string>
+    <string name='death_guard_button'>Death Guard</string>
+    <string name='imperium_button'>Imperium</string>
+    <string name='chaos_button'>Chaos</string>
+    <string name='xenos_button'>Xenos</string>
+
+</resources>
